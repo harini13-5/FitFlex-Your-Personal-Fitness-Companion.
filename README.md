@@ -1,4 +1,4 @@
-FitFlex Demolink vedio: https://drive.google.com/file/d/1UOkH3GwFrPNeL9o-0Rtz_oYAVKUZ4-r0/view?usp=drivesdk
+FitFlex Demolink video: https://drive.google.com/file/d/1UOkH3GwFrPNeL9o-0Rtz_oYAVKUZ4-r0/view?usp=drivesdk
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
